@@ -29,7 +29,7 @@ const Food = () => {
           <p className='font-bold text-gray-700 text-center'>Filter Type</p>
           <div className='flex justify-between flex-wrap gap-1 m-1'>
             {categories.map((category, index) => (
-              <button onClick={index > 0 ? () => filterType(category.name) : () => setFoods(items)} className='border-orange-600 text-orange-600 text-white hover:bg-orange-600 hover:text-white duration-300'>
+              <button onClick={index > 0 ? () => filterType(category.name) : () => setFoods(items)} className='border-orange-600 text-orange-600 hover:bg-orange-600 hover:text-white duration-300'>
                 <p className='capitalize'>
                   {category.name}
                 </p>
