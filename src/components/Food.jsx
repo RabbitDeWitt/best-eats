@@ -42,7 +42,7 @@ const Food = () => {
           <p className='font-bold text-gray-700 text-center'>Filter Price</p>
           <div className='flex justify-between flex-wrap gap-1 m-1 max-w-[350px]'>
             {prices.map((price, index) => (
-              <button onClick={index > 0 ? () => filterPrice(price.tag) : () => setFoods(items) } className='border-orange-600 text-orange-600 text-white hover:bg-orange-600 hover:text-white duration-300'>
+              <button onClick={index > 0 ? () => filterPrice(price.tag) : () => setFoods(items) } className='border-orange-600 text-orange-600 hover:bg-orange-600 hover:text-white duration-300'>
                 {price.tag}
               </button>
             ))}
