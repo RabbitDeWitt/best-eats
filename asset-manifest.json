@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/best-eats/static/css/main.8fefc561.css",
-    "main.js": "/best-eats/static/js/main.73aed7fc.js",
+    "main.js": "/best-eats/static/js/main.fc0cd407.js",
     "static/media/hamburger.jpg": "/best-eats/static/media/hamburger.9c0e86c23fce92d4e391.jpg",
     "static/media/strawberries.jpg": "/best-eats/static/media/strawberries.140d510fac1394d98a4e.jpg",
     "static/media/meat.jpg": "/best-eats/static/media/meat.d19e71b8af8e83070233.jpg",
     "static/media/sandwich.jpg": "/best-eats/static/media/sandwich.7b55def618e31b8b2eb5.jpg",
     "index.html": "/best-eats/index.html",
     "main.8fefc561.css.map": "/best-eats/static/css/main.8fefc561.css.map",
-    "main.73aed7fc.js.map": "/best-eats/static/js/main.73aed7fc.js.map"
+    "main.fc0cd407.js.map": "/best-eats/static/js/main.fc0cd407.js.map"
   },
   "entrypoints": [
     "static/css/main.8fefc561.css",
-    "static/js/main.73aed7fc.js"
+    "static/js/main.fc0cd407.js"
   ]
 }
