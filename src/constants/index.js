@@ -63,3 +63,39 @@ export const cards = [
     bgImage: strawberries
   }
 ]
+
+export const categories = [
+  {
+    name: 'all'
+  },
+  {
+    name: 'burger'
+  },
+  {
+    name: 'pizza'
+  },
+  {
+    name: 'salad'
+  },
+  {
+    name: 'chicken'
+  }
+]
+
+export const prices = [
+  {
+    tag: 'All'
+  },
+  {
+    tag: '$'
+  },
+  {
+    tag: '$$'
+  },
+  {
+    tag: '$$$'
+  },
+  {
+    tag: '$$$$'
+  }
+]
